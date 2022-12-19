@@ -9,3 +9,7 @@ this repo serves and angular front-en from a Spring Boot project.
 `mvnw spring-boot:run`
 
 
+## Available end-points
+1. Served from Spring Boot: http://localhost:8080/hello
+2. Served from Angular: http://localhost:8080
+
