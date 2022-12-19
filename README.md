@@ -33,7 +33,7 @@ for both of them.
 2. Served from Angular: http://localhost:8080
 
 \
-&nbsp;
+
 
 ## 3. References:
 
