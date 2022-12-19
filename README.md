@@ -35,7 +35,7 @@ for both of them.
 \
 &nbsp;
 
-### References:
+## 3. References:
 
 * Spring Boot: https://spring.io/guides/gs/spring-boot/  
 * Angular & Spring Boot in a Single Project: https://www.baeldung.com/spring-boot-angular-web
