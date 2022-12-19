@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import 'styles/variables';
+@import 'styles/typography';
+
+//@import "lbd/mixins";
+//@import "lbd/misc";
+
+
+body {
+  color: $black;
+  background: $white;
+  font-family: $roboto-slab !important;
+  font-weight: $font-weight-light;
+  font-size: $font-paragraph;
+}
+
+span {
+ font-family: $roboto-slab !important;
+ font-size: $font-paragraph;
+ font-weight: $font-weight-light;
+}
+
+h2 {
+  font-size: $h2-font-size;
+}
