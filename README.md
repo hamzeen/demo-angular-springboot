@@ -1,6 +1,6 @@
 # Demo: Angular inside Spring Boot project
 
-this repo serves and angular front-en from a Spring Boot project.
+this repo serves an Angular front-end from within a Spring Boot project.
 
 ## 1. Running the Project
 
