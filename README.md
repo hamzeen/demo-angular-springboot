@@ -22,7 +22,7 @@ for both of them.
 
 ### 1.2. For Deployment:
 * Build: `mvn package`
-* Run abve build: `java -jar demo-0.0.1-SNAPSHOT.jar`
+* Run above build: `java -jar demo-0.0.1-SNAPSHOT.jar`
 
 &nbsp;
 \
