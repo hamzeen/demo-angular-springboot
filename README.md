@@ -1,4 +1,5 @@
-# demo-angular_springboot
+# Demo: Angular inside SpringBoot project
+
 angular front-end inside spring-boot project
 
 ## Running the Project
