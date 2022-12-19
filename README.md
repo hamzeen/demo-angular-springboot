@@ -24,6 +24,9 @@ for both of them.
 * Build: `mvn package`
 * Run abve build: `java -jar demo-0.0.1-SNAPSHOT.jar`
 
+&nbsp;
+\
+&nbsp;
 
 ## 2. Available end-points
 1. Served from Spring Boot: http://localhost:8080/hello
