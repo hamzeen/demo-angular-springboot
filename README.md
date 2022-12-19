@@ -4,7 +4,7 @@ this repo serves an Angular front-end from within a Spring Boot project.
 &nbsp;
 \
 &nbsp;
-\
+
 
 
 
