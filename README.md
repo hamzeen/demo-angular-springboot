@@ -21,4 +21,4 @@ this repo serves an Angular front-end from within a Spring Boot project.
 ### References:
 
 * Spring Boot: https://spring.io/guides/gs/spring-boot/  
-* Angular and Spring Boot in a Single Project: https://www.baeldung.com/spring-boot-angular-web
+* Angular & Spring Boot in a Single Project: https://www.baeldung.com/spring-boot-angular-web
