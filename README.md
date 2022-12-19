@@ -32,6 +32,11 @@ for both of them.
 1. Served from Spring Boot: http://localhost:8080/hello
 2. Served from Angular: http://localhost:8080
 
+&nbsp;
+\
+&nbsp;
+
+
 ### References:
 
 * Spring Boot: https://spring.io/guides/gs/spring-boot/  
