@@ -4,6 +4,11 @@ this repo serves an Angular front-end from within a Spring Boot project.
 
 ## 1. Running the Project
 
+The project could be built in 2 ways. One for local (dev) build & 
+another for production using build artefact(s). Below you find the steps 
+for both of them.
+
+
 ### 1.1. For Local run: 
 1. Install front-end dependencies:   
 `cd src\main\resources\frontend && npm install`
