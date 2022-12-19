@@ -19,4 +19,6 @@ this repo serves and angular front-en from a Spring Boot project.
 2. Served from Angular: http://localhost:8080
 
 ### References:
-[spring boot]: https://spring.io/guides/gs/spring-boot/
+
+Spring Boot: https://spring.io/guides/gs/spring-boot/
+Angular and Spring Boot in a Single Project: https://www.baeldung.com/spring-boot-angular-web
