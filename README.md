@@ -10,8 +10,8 @@ this repo serves and angular front-en from a Spring Boot project.
 2. Launch the app: `mvnw spring-boot:run`
 
 ### 1.2. For Deployment:
-1. Build it: `mvn package`
-2. Run from baove build: `java -jar demo-0.0.1-SNAPSHOT.jar`
+* Build it: `mvn package`
+* Run from baove build: `java -jar demo-0.0.1-SNAPSHOT.jar`
 
 
 ## 2. Available end-points
